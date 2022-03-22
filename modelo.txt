@@ -1,0 +1,32 @@
+##ASSUNTO
+Avaliação de estágio probatório pendente (urgente)
+##FIM_ASSUNTO
+
+##MENSAGEM
+Prezada chefia,
+Em cópia para o servidor interessado,
+
+Verificamos que o prazo para realização da avaliação referente ao {{momento}}º momento do estágio probatório do (a) servidor (a) {{nome_servidor}}, SIAPE nº. {{siape_servidor}}, ocupante do cargo de {{cargo_servidor}}, em exercício no(a) {{setor_exercicio}}, encontra-se vencido desde {{data_fim_prazo}}.
+
+Assim, solicitamos que a avaliação seja providenciada nos termos da {{resolucao}} com urgência e que o respectivo processo seja encaminhado à Diretoria de Desenvolvimento de Pessoas (DDP/Progep) para análises e registros.
+
+Caso o processo com a avaliação já tenha sido encaminhado à DDP/Progep, recomendamos verificar se houve devolução para algum ajuste. Se não, favor desconsiderar esta notificação.
+
+Veja algumas informações importantes:
+
+1. A avaliação referente ao segundo momento deve ser encaminhada no mesmo processo pelo qual foi tramitada a avaliação do primeiro momento.
+
+2. No caso de servidor técnico-administrativo removido nos últimos seis meses, o servidor deve ser avaliado por comissão designada pela chefia imediata atual desde que esteja no setor por 6 (seis) meses ou mais, se não, deve ser avaliado pela chefia com o qual permaneceu por mais tempo. Caso se aplique a segunda situação, solicitamos a gentileza de encaminhar esta mensagem ao setor correspondente.
+
+3. Recomendamos que tanto a chefia imediata quanto o servidor em estágio probatório consultem a página do Manual de Procedimentos da Progep referente ao estágio probatório para obter as principais informações sobre o processo.
+
+4. A Progep publica, no início de cada mês, a relação dos servidores cujo prazo para realizar a avaliação se inicia naquele mês. Sugerimos consultar no site da Progep, clicando em “Avaliação de desempenho” > “Estágio probatório”.
+
+Atenciosamente,
+
+Divisão de Desenvolvimento na Carreira e Capacitação
+Diretoria de Desenvolvimento de Pessoas
+Pró-Reitoria de Gestão de Pessoas
+Universidade Federal do Espírito Santo
+E-mail: sdcc.ddp.progep@ufes.br
+##FIM_MENSAGEM
